@@ -1,52 +1,52 @@
 1. Project Title
 
-BikeStores Data Analysis using SQL, Excel, and Tableau
+      BikeStores Data Analysis using SQL, Excel, and Tableau
 
 2. Overview
 
-This project performs end-to-end data analysis using the BikeStores dataset.
-Data is queried and cleaned using SQL Server, analyzed in Excel, and visualized using Tableau dashboards to uncover sales insights.
+      This project performs end-to-end data analysis using the BikeStores dataset.
+      Data is queried and cleaned using SQL Server, analyzed in Excel, and visualized using Tableau dashboards to uncover sales insights.
 
 3. Tech Stack
 
-SQL Server
+      SQL Server
 
-Microsoft Excel
+      Microsoft Excel
 
-Tableau Desktop
+      Tableau Desktop
 
 4. Key Steps
 
-Database Setup:
-Created BikeStores database using provided SQL scripts (create_objects.sql and load_data.sql).
+      Database Setup:
+      Created BikeStores database using provided SQL scripts (create_objects.sql and load_data.sql).
 
-Data Analysis in SQL:
-Wrote queries to explore sales, revenue, customer, and product performance.
+      Data Analysis in SQL:
+      Wrote queries to explore sales, revenue, customer, and product performance.
 
-Data Cleaning & Export:
-Exported SQL query results into Excel for further processing.
+      Data Cleaning & Export:
+      Exported SQL query results into Excel for further processing.
 
-Visualization in Tableau:
-Built dashboards to show sales by region, product performance, and revenue trends.
+      Visualization in Tableau:
+      Built dashboards to show sales by region, product performance, and revenue trends.
 
 5. Insights / Results
 
-Top 10 states contributing to highest sales.
+      Top 10 states contributing to highest sales.
 
-Most popular product categories.
+      Most popular product categories.
 
-Seasonal sales trends over time.
+      Seasonal sales trends over time.
 
 6. How to Run
 
-Steps for anyone to reproduce:
+      Steps for anyone to reproduce:
 
-Clone the repo.
+      Clone the repo.
 
-Load the database into SQL Server using provided scripts.
+      Load the database into SQL Server using provided scripts.
 
-Execute analysis queries.
+      Execute analysis queries.
 
-Export results to Excel.
+      Export results to Excel.
 
-Open Tableau workbook (.twbx) for visualization.
+      Open Tableau workbook (.twbx) for visualization.
